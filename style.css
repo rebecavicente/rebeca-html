@@ -1,5 +1,5 @@
 body{
-    background:#ffaedd
+    background:#dbaeff
 }
 
 h1 {
@@ -16,4 +16,8 @@ p {
 
 em strong {
      color: #ffaedd;
+}
+
+.itens{
+     font-size: italic;
 }
